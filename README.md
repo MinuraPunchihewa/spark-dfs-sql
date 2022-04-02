@@ -21,13 +21,13 @@ Go to the project directory,
 cd spark-dfs-sql
 ```
 
-Install the required dependencies
+Install the required dependencies,
 
 ```
 pip install -r requirements.txt
 ```
 
-Launch Jupyter Notebook
+Launch Jupyter Notebook,
 
 ```
 jupyter notebook
