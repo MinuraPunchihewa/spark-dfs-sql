@@ -6,7 +6,8 @@ https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/times
 
 ## Run Locally
 
-To run these notebooks locally, ensure that you have downloaded Spark and integrated it with Jupyer Notebooks. Given below is a quick tutorial on how this can be done,&nbsp;
+To run these notebooks locally, ensure that you have downloaded Spark and integrated it with Jupyer Notebooks. Given below is a quick tutorial on how this can be done,
+&nbsp;
 https://www.sicara.ai/blog/2017-05-02-get-started-pyspark-jupyter-notebook-3-minutes
 
 Clone the project,
